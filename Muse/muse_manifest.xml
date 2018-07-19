@@ -1,0 +1,43 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Rafiq5.github.io" resolutions="1x" timestamp="1532014305311">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="3910615915" ref="others:index:contact:education:service:gallery"/>
+    <file name="others.css" crc="3873619333" ref="others"/>
+    <file name="index.css" crc="55060485" ref="index"/>
+    <file name="contact.css" crc="3873619333" ref="contact"/>
+    <file name="education.css" crc="3873619333" ref="education"/>
+    <file name="service.css" crc="3873619333" ref="service"/>
+    <file name="gallery.css" crc="3873619333" ref="gallery"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:service:education:gallery:contact:others"/>
+    <file name="museutils.js" crc="183364071" ref="index:service:education:gallery:contact:others"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:service:education:gallery:contact:others"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:service:education:gallery:contact:others"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:service:education:gallery:contact:others"/>
+  </folder>
+  <folder name="images">
+    <file name="ytt.jpg" crc="227212952" ref="index"/>
+    <file name="u166-4.png" crc="433894925" ref="index:service:education:gallery:contact:others"/>
+    <file name="6-ieu178-fr.png" crc="83544810" ref="index"/>
+    <file name="6.jpg" crc="180114994" ref="index"/>
+    <file name="8-ieu183-fr.png" crc="3778857246" ref="index"/>
+    <file name="8.jpg" crc="3906069619" ref="index"/>
+    <file name="7-ieu217-fr.png" crc="3825147579" ref="index"/>
+    <file name="7.jpg" crc="3828421493" ref="index"/>
+    <file name="6-u194-a-fr.jpg" crc="4027314187" ref="index"/>
+    <file name="11.jpg" crc="19927412" ref="index"/>
+  </folder>
+  <file name="index.html" crc="490485997" seo="true" mt="1532002196482" redirect="true"/>
+  <file name="service.html" crc="3944832533" seo="true" mt="1532002196482" redirect="true"/>
+  <file name="education.html" crc="4175235626" seo="true" mt="1532002196482" redirect="true"/>
+  <file name="gallery.html" crc="487823138" seo="true" mt="1532002196482" redirect="true"/>
+  <file name="contact.html" crc="3970688821" seo="true" mt="1532002196482" redirect="true"/>
+  <file name="others.html" crc="3905534649" seo="true" mt="1532002196482" redirect="true"/>
+</manifest>
